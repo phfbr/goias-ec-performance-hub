@@ -88,10 +88,11 @@ O fluxo de preparação incluiu extração de dados com Python e tratamento e li
   ![Análise Individual](imagens/pagina-05.png)
 
 
-Como explorar
-  1. Baixe o arquivo .pbix da pasta dashboard.
-  2. Abra-o no Power BI Desktop.
-  3. Navegue pelas cinco páginas e utilize os filtros de temporada, competição e mando.
-  4. Explore os gráficos e rankings para comparar resultados e jogadores.
+## Como explorar o dashboard
+  - Acesse a seção Download do Dashboard no início deste README.
+  - Baixe o arquivo .pbix e abra-o no Power BI Desktop.
+  - Navegue pelas cinco páginas do relatório.
+  - Utilize os filtros de competição, temporada e mando para explorar os indicadores.
+  - Analise os gráficos, rankings, métricas de xG e resultados para identificar padrões de desempenho.
 
 
