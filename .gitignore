@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Configurações locais
+.env
+.env.*
+!.env.example
+
+# Arquivos do editor
+.vscode/
+.idea/
+
+# Dados brutos e arquivos temporários
+dados/brutos/
+dados/*auditoria*.csv
+dados/*validacao*.csv
