@@ -1,7 +1,14 @@
-## Goiás EC Performance Hub
-## Análise de desempenho do Goiás Esporte Clube na Série B de 2025, desenvolvida no Power BI.
+# Goiás EC Performance Hub
+Análise de desempenho do Goiás Esporte Clube na Série B de 2025, desenvolvida no Power BI.
 
 Este projeto reúne indicadores de resultados, desempenho ofensivo e defensivo, análise de partidas, formações táticas e desempenho individual dos jogadores em um dashboard interativo de cinco páginas.
+
+### Download do Dashboard
+  O dashboard interativo está disponível para download e exploração no Power BI Desktop.
+
+**[Baixar o Dashboard Power BI (.pbix)](https://github.com/phfbr/goias-ec-performance-hub/raw/refs/heads/main/dashboard/Goias_EC_Performance_Hub_Portfolio.pbix)**
+
+O projeto contém cinco páginas de análises, indicadores de desempenho, rankings de jogadores e visualizações interativas.
 
 ## Objetivo
 Organizar dados de partidas e finalizações em uma visão analítica que facilite a comparação de indicadores, a identificação de padrões e a exploração do desempenho da equipe ao longo da competição.
@@ -53,10 +60,19 @@ O fluxo de preparação incluiu extração de dados com Python e tratamento e li
 
 ## Tecnologias e recursos
   - Python: extração, tratamento e limpeza dos dados utilizados no projeto.
-  -   Power BI: modelagem, visualizações, segmentações e interatividade.
-  -   DAX: criação de medidas, indicadores, rankings e cálculos acumulados.
+  - Power BI: modelagem, visualizações, segmentações e interatividade.
+  - DAX: criação de medidas, indicadores, rankings e cálculos acumulados.
   - Power Query: preparação e transformação dos dados, conforme as etapas presentes no projeto.
   - Deneb / Vega: visualização personalizada do mapa de finalizações.Prévia do dashboard
+
+## Fontes de Dados e Créditos
+  - **FotMob:** fonte de dados de partidas e eventos de finalizações.
+  - **Goiás Esporte Clube:** clube analisado no projeto.
+  - **Ilustração do jogador:** imagem gerada por inteligência artificial para fins de apresentação visual.
+
+  Este é um projeto independente de análise de dados, desenvolvido para fins de estudo e portfólio profissional, sem vínculo oficial com o Goiás Esporte Clube ou o FotMob.
+
+  Os dados e marcas de terceiros permanecem sujeitos aos direitos de seus respectivos titulares.
 
 ## Visualização do Dashboard
 
@@ -73,10 +89,9 @@ O fluxo de preparação incluiu extração de dados com Python e tratamento e li
 
 
 Como explorar
-  1. Baixe o arquivo .pbix da pasta dashboard/, quando disponibilizado.
+  1. Baixe o arquivo .pbix da pasta dashboard.
   2. Abra-o no Power BI Desktop.
   3. Navegue pelas cinco páginas e utilize os filtros de temporada, competição e mando.
   4. Explore os gráficos e rankings para comparar resultados e jogadores.
 
-Observações
-Este é um projeto independente de portfólio, sem vínculo oficial com o Goiás Esporte Clube. Antes de disponibilizar o arquivo .pbix, os dados brutos ou fotografias, verifique as permissões de uso e compartilhamento das respectivas fontes. Imagens geradas ou editadas por IA devem ser identificadas como tal quando utilizadas.
+
